@@ -1,4 +1,4 @@
-Week-2 lab --work in progress--
+Week-2 lab 
 ======
 
 week 2 lab
